@@ -24,8 +24,8 @@
 ## 实体服务运行
 下载 [Github Release](https://github.com/cugxuan/GOIndex/releases) 或者 [gonelist-release](https://gonelist.cugxuan.cn/#/gonelist-release) 中对应的包，直接运行即可启动，以 Linux 系统本地启动为例
 ```
-// 下载对应的安装包，也可以下载 github 的 release 链接
-$ wget https://gonelist.cugxuan.cn/d/gonelist-release/gonelist_linux_amd64.tar.gz
+// 下载对应的安装包，也可以下载 gonelist-release 中的包
+$ wget https://github.com/cugxuan/gonelist/releases/download/v0.2/gonelist_linux_amd64.tar.gz
 $ tar -zxf gonelist_linux_amd64.tar.gz && cd gonelist_linux_amd64
 $ ./gonelist_linux_amd64
 ```
